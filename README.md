@@ -1,4 +1,6 @@
+## Amogh Upasani
 
-<h1 align="center">
-  🚧 SOON 🚧
-</h1>
+    Hey there. I code.
+
+    - **Interests**: Mathematics, systems design, simple architectures, learning tools
+    - **Contact**: upasaniamogh@gmail.com
