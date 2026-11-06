@@ -16,7 +16,9 @@ I like small, useful software that makes hard ideas click.
 
 More experiments in my [repositories](https://github.com/amoghu1s1?tab=repositories).
 
-**Toolbox:** Python · TypeScript · JavaScript · HTML/CSS
+**Toolbox**
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,html,css" alt="Python, TypeScript, JavaScript, HTML, CSS" height="36" />
 
 ## Elsewhere
 
