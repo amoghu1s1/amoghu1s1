@@ -1,7 +1,23 @@
-sup. i think, code and brainstorm.
+# Amogh Upasani
 
- - 18 y/o undergrad  • [X](http://x.com/amoghu1s1)
-- **interests**: Mathematics, AI/ML, Robotics and Computer Science.
+**First-year undergrad building small, local-first AI tools.**
 
+I like small, useful software that makes hard ideas click.
 
-more coming Soon™
+## Now
+
+- Learning transformers, LLMs, and how agent harnesses work — attention, training, inference, and how agents use tools.
+- Building small tools to make the ideas concrete; usually local-first, usually to solve a problem I actually have.
+- Interested in robotics — specifically agents that can perceive and act in the physical world. Not working on it yet.
+
+## Small things I've built
+
+- **[whisper-windows-transcriber](https://github.com/amoghu1s1/whisper-windows-transcriber)** — zero-config, drag-and-drop local GPU transcription for Windows using whisper.cpp. No Python or PyTorch required.
+
+More experiments in my [repositories](https://github.com/amoghu1s1?tab=repositories).
+
+**Toolbox:** Python · TypeScript · JavaScript · HTML/CSS
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/amoghu1s1/) · [Email](mailto:upasaniamogh@gmail.com)
